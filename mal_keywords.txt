@@ -1,0 +1,9 @@
+exploit 
+vulnerability 
+sql injection 
+xss
+csrf
+hack 
+attack 
+phishing 
+bruteforce
