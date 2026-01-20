@@ -1,4 +1,18 @@
-uab.edu 
-uabsports.com
-uab 
-University of Alabama at Birmingham 
+1917tfs.hs.uab.edu
+1917tsweb1.ad.hs.uab.edu
+1step.uab.edu
+2fwww.uab.edu
+477slbdev2.it.uab.edu
+477slbprod2.it.uab.edu
+477slbsandbox2.it.uab.edu
+493slbdev1.it.uab.edu
+493slbprod1.it.uab.edu
+493slbsandbox1.it.uab.edu
+The University of Alabama System
+UAB School of Medicine
+UAB School of Optometry
+UAB School of Dentistry
+UAB Research Foundation
+UAB School of Nursing
+UAB
+The University of Alabama at Birmingham (University of Alabama at Birmingham)
